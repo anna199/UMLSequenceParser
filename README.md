@@ -7,6 +7,7 @@ The java files has a main.java and should be put into the src folder. In the Seq
 
 To run it with the given example:
 git clone https://github.com/anna199/UMLSequenceParser.git
+
 java -jar UMLSeqParser.jar
 
 To run it with other file example:
